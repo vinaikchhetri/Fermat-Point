@@ -9,10 +9,8 @@ make
 ./main
 ```
 
-## Ouput
-![ouput1](/img/out1.png?raw=true "out1")
+## using standard cpp numerical precision
+![output1](/img/out1.png?raw=true "out1")
 
-
-
-
-
+##using 120 bits of accuracy ~ 30 digits (CORE)
+![output2](/img/out2.png?raw=true "out2")
